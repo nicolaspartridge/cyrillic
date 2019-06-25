@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cyrillic/static/css/main.b03d4cbb.chunk.css",
+    "main.js": "/cyrillic/static/js/main.8e0408ea.chunk.js",
+    "main.js.map": "/cyrillic/static/js/main.8e0408ea.chunk.js.map",
+    "runtime~main.js": "/cyrillic/static/js/runtime~main.0b418cd9.js",
+    "runtime~main.js.map": "/cyrillic/static/js/runtime~main.0b418cd9.js.map",
+    "static/js/2.c2695c00.chunk.js": "/cyrillic/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/cyrillic/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/cyrillic/index.html",
+    "precache-manifest.994791e5cf0c5d69a23f5dec4bec4533.js": "/cyrillic/precache-manifest.994791e5cf0c5d69a23f5dec4bec4533.js",
+    "service-worker.js": "/cyrillic/service-worker.js",
+    "static/css/main.b03d4cbb.chunk.css.map": "/cyrillic/static/css/main.b03d4cbb.chunk.css.map"
+  }
+}
